@@ -78,6 +78,9 @@ endmodule
 
 **TRUTH TABLE**
 
+<img width="879" height="296" alt="de 6" src="https://github.com/user-attachments/assets/6d1cf144-9eb0-431b-8195-578530588cbd" />
+
+
 **RESULTS**
 
 Thus,the 4-bit-ripple-counter is implemented using Verilog and its functionality is validated with the truth table and timing diagrams.
