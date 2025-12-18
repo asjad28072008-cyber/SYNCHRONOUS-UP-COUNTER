@@ -73,7 +73,8 @@ endmodule
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-<img width="1705" height="268" alt="Screenshot 2025-11-16 163925" src="https://github.com/user-attachments/assets/92b73a7d-7750-4517-a737-1b7577fb5dd8" />
+<img width="1864" height="166" alt="image" src="https://github.com/user-attachments/assets/b41e4aac-102e-4a5f-b95c-0548bfc301fc" />
+
 
 
 **TRUTH TABLE**
